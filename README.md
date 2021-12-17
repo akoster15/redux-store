@@ -1,5 +1,7 @@
 # Redux Store
 
+![Screenshot](client/src/images/Screenshot.png)
+
 ## About
 
 On this website, you are able to scroll through products and add them to your cart and checkout, as you would on an actual e-commerce website. 

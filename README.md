@@ -1,6 +1,6 @@
 # Redux Store
 
-![Screenshot](client/src/images/Screenshot.png)
+![Screenshot](/client/src/images/Screenshot.png)
 
 ## About
 

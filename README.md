@@ -22,3 +22,8 @@ SO THAT my website's state management is taken out of the React ecosystem
 - ApolloServer
 - Javascript
 - Node.js
+
+## Links
+
+- GitHub: https://github.com/akoster15/redux-store
+- Deployed: https://redux-store-akoster15.herokuapp.com/
